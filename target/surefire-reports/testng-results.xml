@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-01T14:28:06Z" name="Suite" finished-at="2023-06-01T14:29:34Z" duration-ms="87872">
+    <groups>
+    </groups>
+    <test started-at="2023-06-01T14:28:06Z" name="Test" finished-at="2023-06-01T14:29:34Z" duration-ms="87872">
+      <class name="com.tutorialsninja.practice.testCase.Login_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:06Z" name="setUp" finished-at="2023-06-01T14:28:23Z" duration-ms="16442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Login_TN()[pri:1, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:23Z" name="Login_TN" finished-at="2023-06-01T14:28:23Z" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TN -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:23Z" name="tearDown" finished-at="2023-06-01T14:28:23Z" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:23Z" name="setUp" finished-at="2023-06-01T14:28:39Z" duration-ms="15542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnLaptopsAndNotebook()[pri:2, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:39Z" name="clickOnLaptopsAndNotebook" finished-at="2023-06-01T14:28:40Z" duration-ms="1530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLaptopsAndNotebook -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:40Z" name="tearDown" finished-at="2023-06-01T14:28:40Z" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:40Z" name="setUp" finished-at="2023-06-01T14:28:54Z" duration-ms="13306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnHpLaptop()[pri:3, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:54Z" name="clickOnHpLaptop" finished-at="2023-06-01T14:28:56Z" duration-ms="2267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHpLaptop -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:56Z" name="tearDown" finished-at="2023-06-01T14:28:56Z" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:28:56Z" name="setUp" finished-at="2023-06-01T14:29:10Z" duration-ms="13882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="completeBuying()[pri:4, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:29:10Z" name="completeBuying" finished-at="2023-06-01T14:29:34Z" duration-ms="23767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeBuying -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testCase.Login_Test@2a693f59]" started-at="2023-06-01T14:29:34Z" name="tearDown" finished-at="2023-06-01T14:29:34Z" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.practice.testCase.Login_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
